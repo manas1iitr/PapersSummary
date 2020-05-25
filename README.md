@@ -1,5 +1,5 @@
 # Papers Summary
-* [Neural nets tips and tricks] (https://github.com/manas1iitr/PapersSummary/blob/master/NeuralNetsTipsAndTricks)
+* [Neural nets tips and tricks](https://github.com/manas1iitr/PapersSummary/blob/master/NeuralNetsTipsAndTricks)
 
 Summary of papers (mainly in NLP and Machine Learning) that I read:
 
