@@ -1,0 +1,5 @@
+Adam optimizer for training (more stable training, eliminates hyperparameters like learning rate)
+Xavier or He initialization
+ReLu activation function (helps in faster training by helping with flow of gradients)
+Batch normalization or layer normalization (helps in making the training more stable, also regularization)
+Dropout (regularization)
