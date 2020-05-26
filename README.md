@@ -1,5 +1,7 @@
 # Papers Summary
+Blogs/Own scribbling
 * [Neural nets tips and tricks](https://github.com/manas1iitr/PapersSummary/blob/master/NeuralNetsTipsAndTricks)
+* [WeightNorm vs LayerNorm vs BatchNorm](https://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-explained-normalization-in-deep-learning-part-2/)
 
 Summary of papers (mainly in NLP and Machine Learning) that I read:
 
