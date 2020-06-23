@@ -9,3 +9,4 @@ Summary of papers (mainly in NLP and Machine Learning) that I read:
 * [Layer Normalization](https://github.com/manas1iitr/PapersSummary/blob/master/LayerNormalization.pdf) (overcomes the shortcomings of batch norm for RNNs, though for CNN batchnorm is still more effective, basically helps in making the model more robust to scaling and initializations of parameters, and the input values (invariant to weight rescaling and recentering and input rescaling and recentering), while solving ***internal covariate shift***. A nice table given in this paper comparing layernorm, batchnorm and weightnorm.)
 * [Weight Normalization](https://github.com/manas1iitr/PapersSummary/blob/master/WeightNormalization.pdf) (aims to alleviate the significance of batch sizes as a design decision as in batch normalization, and claims to be faster for CNNs, and applicable to noise sensitive applications like deep reinforcement learning, but is affected by the way parameters are initialized.)
 
+
