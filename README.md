@@ -2,7 +2,7 @@
 Blogs/Own scribbling
 * [Neural nets tips and tricks](https://github.com/manas1iitr/PapersSummary/blob/master/NeuralNetsTipsAndTricks)
 * [WeightNorm vs LayerNorm vs BatchNorm](https://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-explained-normalization-in-deep-learning-part-2/) (***Key thing:*** in deep learning anything is legal as long as it is differentiable, and all these normalization operations are differentiable.)
-* [Self-supervised learning reading list](https://github.com/jason718/awesome-self-supervised-learning)[Blog 1](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html) [Blog 2](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
+* [Self-supervised learning reading list](https://github.com/jason718/awesome-self-supervised-learning) [Blog 1](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html) [Blog 2](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
 
 Summary of papers (mainly in NLP and Machine Learning) that I read:
 
