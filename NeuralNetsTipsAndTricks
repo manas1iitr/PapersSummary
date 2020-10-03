@@ -3,3 +3,4 @@ Xavier or He initialization
 ReLu activation function (helps in faster training by helping with flow of gradients)
 Batch normalization or layer normalization (helps in making the training more stable, also regularization)
 Dropout (regularization)
+Learning rate may be proportional to batch size, (not completely sure though)
