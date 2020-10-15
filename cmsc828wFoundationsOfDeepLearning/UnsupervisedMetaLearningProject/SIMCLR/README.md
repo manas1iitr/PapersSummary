@@ -14,7 +14,7 @@ Some specifics:
 4. Results shown on Imagenet classification, FOod, CIFAR10, CIFAR100, Birdsnap, SUN397, Cars, Aircraft, VOC2007, Pets, Flowers, DTD, Caltech-101.
 
 
-### TECHNIQUES THAT CAN BE USED IN THE UNSUPERVISED META LEARNING PROJECT: ###
+### TECHNIQUES THAT CAN BE USED IN THE COURSE PROJECT: ###
 1. composition of augmentations is a simple and a nice idea, definitly worth a try, makes the tasks more diverse I guess.
 2. can consider the temperature scaling for the loss function.
 3. larger batch sizes help, but I dont think we can match their batch size, so probably ignore this.
