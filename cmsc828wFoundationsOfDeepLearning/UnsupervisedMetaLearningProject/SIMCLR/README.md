@@ -13,7 +13,7 @@ Some specifics:
 3. For the loss function, Normalized cross entropy loss with adjustable temperature works better than alternatives.
 
 
-* TECHNIQUES THAT CAN BE USED IN THE UNSUPERVISED META LEARNING PROJECT:
+### TECHNIQUES THAT CAN BE USED IN THE UNSUPERVISED META LEARNING PROJECT: ###
 1. composition of augmentations is a simple and a nice idea, definitly worth a try, makes the tasks more diverse I guess.
 2. can consider the temperature scaling for the loss function.
 3. larger batch sizes help, but I dont think we can match their batch size, so probably ignore this.
