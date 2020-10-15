@@ -14,6 +14,9 @@ Some specifics:
 4. Results shown on Imagenet classification, FOod, CIFAR10, CIFAR100, Birdsnap, SUN397, Cars, Aircraft, VOC2007, Pets, Flowers, DTD, Caltech-101.
 
 
+* [SIMCLRv2](https://arxiv.org/abs/2006.10029) [Video](https://www.youtube.com/watch?v=2lkUNDZld-4)(The bottomline is bigger (deep and wide) models yield even larger gains when we have fewer labels, which seems to be counterintuitive as bigger models should be able to overfit fewer labels even more easily. It may be because that bigger models can learn more from the unsupervised pretraining. Basically they take simclr, and instead of 1 projection head this time they have 3 projection heads for the pretraining, then do finetuning on the backbone+first projection head, then use this finetuned model for knowledge distillation for the backbone. perform extensive experiments and ablation studies.)
+
+
 ### TECHNIQUES THAT CAN BE USED IN THE COURSE PROJECT: ###
 1. composition of augmentations is a simple and a nice idea, definitly worth a try, makes the tasks more diverse I guess.
 2. can consider the temperature scaling for the loss function.
