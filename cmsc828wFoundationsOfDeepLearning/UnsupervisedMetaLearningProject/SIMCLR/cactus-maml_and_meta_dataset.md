@@ -13,7 +13,8 @@ Training and evaluation:
 4. regarding meta-val data: the paper says: to facilitate anaylsis on meta-overfit, we use the labels of meta-val to construct tasks for meta-validation. but no tuning of any hyperparameters is done on labeled data. (stupid question: not sure why/how meta-val is different from meta-test then?)
 
 
-Hyperparameters for MAML: [link](https://github.com/manasaga/PapersSummary/blob/master/cmsc828wFoundationsOfDeepLearning/UnsupervisedMetaLearningProject/SIMCLR/cactus_protonets_hyperparams.PNG)
+Hyperparameters for Cactus-Proto: [link](https://github.com/manasaga/PapersSummary/blob/master/cmsc828wFoundationsOfDeepLearning/UnsupervisedMetaLearningProject/SIMCLR/cactus_protonets_hyperparams.PNG)
+Hyperparameters for Cactus-MAML: [link](https://github.com/manasaga/PapersSummary/blob/master/cmsc828wFoundationsOfDeepLearning/UnsupervisedMetaLearningProject/SIMCLR/cactus_maml_hyperparams.PNG)
 
 
 
