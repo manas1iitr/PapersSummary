@@ -17,6 +17,13 @@ Hyperparameters for Cactus-Proto: [link](https://github.com/manasaga/PapersSumma
 
 Hyperparameters for Cactus-MAML: [link](https://github.com/manasaga/PapersSummary/blob/master/cmsc828wFoundationsOfDeepLearning/UnsupervisedMetaLearningProject/SIMCLR/cactus_maml_hyperparams.PNG)
 
+some additional notes: for cactus-maml, maxpooling not used, some trickery for batch normalization, refer appendix section E1.
+
+
+
+***Meta-dataset paper:***
+Omniglot split: 883/81/659 by characters or 25/5/20 by alphabet. [link](https://github.com/google-research/meta-dataset/blob/81de10378b91c7fcafcde2c151f09204e74e6878/doc/dataset_conversion.md#omniglot)
+
 
 
 
