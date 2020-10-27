@@ -14,6 +14,7 @@ Training and evaluation:
 
 
 Hyperparameters for Cactus-Proto: [link](https://github.com/manasaga/PapersSummary/blob/master/cmsc828wFoundationsOfDeepLearning/UnsupervisedMetaLearningProject/SIMCLR/cactus_protonets_hyperparams.PNG)
+
 Hyperparameters for Cactus-MAML: [link](https://github.com/manasaga/PapersSummary/blob/master/cmsc828wFoundationsOfDeepLearning/UnsupervisedMetaLearningProject/SIMCLR/cactus_maml_hyperparams.PNG)
 
 
