@@ -1,0 +1,14 @@
+Brief, just a few sentences. May include:
+	What did you find interesting? Surprising or counterintuitive?
+	Did you disagree with anything? Are you skeptical of anything/have any critiques?
+	Any observations or connections you see to other work?
+	Please include two questions you have for discussion.
+
+
+how to review paper:
+strengths
+weaknesses
+correctness
+clarity
+relation to prior work
+addition comments
